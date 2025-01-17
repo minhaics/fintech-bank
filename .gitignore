@@ -11,7 +11,7 @@ __pycache__/
 sol/*
 # C extensions
 *.so
-
+playground/
 # Distribution / packaging
 .Python
 build/
